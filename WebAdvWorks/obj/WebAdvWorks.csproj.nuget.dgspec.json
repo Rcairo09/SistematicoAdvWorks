@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JADPA-15\\Desktop\\WebAdvWorks\\WebAdvWorks\\WebAdvWorks.csproj": {}
+    "C:\\Users\\Johnny\\Desktop\\SistematicoAdvWorks\\WebAdvWorks\\WebAdvWorks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JADPA-15\\Desktop\\WebAdvWorks\\WebAdvWorks\\WebAdvWorks.csproj": {
+    "C:\\Users\\Johnny\\Desktop\\SistematicoAdvWorks\\WebAdvWorks\\WebAdvWorks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JADPA-15\\Desktop\\WebAdvWorks\\WebAdvWorks\\WebAdvWorks.csproj",
+        "projectUniqueName": "C:\\Users\\Johnny\\Desktop\\SistematicoAdvWorks\\WebAdvWorks\\WebAdvWorks.csproj",
         "projectName": "WebAdvWorks",
-        "projectPath": "C:\\Users\\JADPA-15\\Desktop\\WebAdvWorks\\WebAdvWorks\\WebAdvWorks.csproj",
-        "packagesPath": "C:\\Users\\JADPA-15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JADPA-15\\Desktop\\WebAdvWorks\\WebAdvWorks\\obj\\",
+        "projectPath": "C:\\Users\\Johnny\\Desktop\\SistematicoAdvWorks\\WebAdvWorks\\WebAdvWorks.csproj",
+        "packagesPath": "C:\\Users\\Johnny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Johnny\\Desktop\\SistematicoAdvWorks\\WebAdvWorks\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\JADPA-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Johnny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +81,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -89,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
